@@ -1,0 +1,62 @@
+table, td, th{
+  border: 1px solid #ddd;
+  text-align: center;
+  font-size: 10px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+h1{
+    text-align: center;
+    color: darkgreen;
+}
+
+
+img {
+    border: none;
+    width: 10px;
+    font-size: 10px;
+    
+}
+
+
+button {
+    width: 70px;
+    height: 30px;
+    border:currentColor;
+    color:black;
+    font-size: 10px;
+    cursor:pointer;
+}
+
+.btnEdit {
+    background-color:rgb(116, 206, 245);
+}
+
+.btnEdit:hover {background-color: rgb(1, 138, 202);} 
+
+.btnEliminar {
+    background-color:rgb(245, 87, 87);
+
+}
+
+.btnEliminar:hover {background-color: rgb(251, 20, 20);}
+
+.btnNuevo {
+    background-color: rgb(127, 255, 131);
+}
+
+.btnNuevo:hover {background-color: rgba(114, 201, 27, 0.842);}
+
+
+
+
+
