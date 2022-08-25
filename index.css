@@ -35,10 +35,12 @@ button {
     color:black;
     font-size: 10px;
     cursor:pointer;
+    border-radius: 5px;
 }
 
 .btnEdit {
     background-color:rgb(116, 206, 245);
+    
 }
 
 .btnEdit:hover {background-color: rgb(1, 138, 202);} 
@@ -52,6 +54,7 @@ button {
 
 .btnNuevo {
     background-color: rgb(127, 255, 131);
+    margin: 0px 40px;
 }
 
 .btnNuevo:hover {background-color: rgba(114, 201, 27, 0.842);}
